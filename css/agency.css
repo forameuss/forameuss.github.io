@@ -377,7 +377,7 @@ header.masthead .intro-text .intro-heading {
   /* IE 9 */
   -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
-  background-color: #212529;
+  background-color: white;
 }
 
 .portfolio-modal .close-modal .lr .rl {
@@ -388,7 +388,7 @@ header.masthead .intro-text .intro-heading {
   /* IE 9 */
   -webkit-transform: rotate(90deg);
   transform: rotate(90deg);
-  background-color: #ff0000;
+  background-color: white;
 }
 
 .timeline {
