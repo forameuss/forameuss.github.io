@@ -5,8 +5,8 @@
  */
 
 --color-oscuro: #6c7592;
---color-medio: #8710fe;
---color-claro: #8710fe;
+--color-medio: #715b94;
+--color-claro: #715b94;
 
 body {
   overflow-x: hidden;
@@ -80,8 +80,8 @@ section h3.section-subheading {
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #8710fe !important;
-  border-color: #8710fe !important;
+  background-color: #715b94 !important;
+  border-color: #715b94 !important;
   color: white;
 }
 
@@ -634,7 +634,7 @@ section#contact .form-control:focus {
 
 section#contact ::-webkit-input-placeholder {
   font-weight: 700;
-  color: #ced4da;
+  color: #8b8d8e;
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
