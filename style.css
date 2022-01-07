@@ -1,0 +1,46 @@
+:root {
+    --fss-black: #212121;
+    --fss-black-transparent: rgba(33, 33, 33, 0.9);
+    --fss-white: #FAFAFA;
+    --fss-gray: #999999;
+  }
+  
+
+body {
+    background-image: url("assets/img/bg.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+    font-family: 'Zen Kaku Gothic New', sans-serif !important;
+    
+}
+
+.container {
+    background-color: var(--fss-black-transparent);
+    color: var(--fss-white);
+}
+
+.card{
+    border-radius: 0;
+}
+
+a:link {
+    color: var(--fss-white)!important;
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--fss-gray)!important;
+}
+
+.fss-blackbg{
+    background-color: var(--fss-black);
+}
+  
+.fss-blur{
+    -webkit-filter: blur(7px);
+    -moz-filter: blur(7px);
+    -o-filter: blur(7px);
+    -ms-filter: blur(7px);
+    filter: blur(7px);
+}
