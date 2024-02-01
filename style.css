@@ -24,7 +24,7 @@ body {
     border-radius: 0;
 }
 
-a:link, a:visited{
+a:link {
     color: var(--fss-white)!important;
     text-decoration: none;
 }
